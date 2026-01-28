@@ -11,7 +11,6 @@ The drone is designed with a focus on:
 * Stability and safety
 * Expandability (sensors, cameras, AI modules)
 
----
 
 ## 2. Objectives
 
@@ -20,7 +19,7 @@ The drone is designed with a focus on:
 * Enable real-time control and telemetry
 * Support future upgrades like AI vision and automation
 
----
+
 
 ## 3. System Architecture
 
@@ -45,7 +44,6 @@ Optional modules:
 * Telemetry module
 * Companion computer (Raspberry Pi / AI module)
 
----
 
 ## 4. Hardware Components
 
@@ -69,7 +67,6 @@ Optional modules:
 * Camera module
 * Telemetry (LoRa / RF)
 
----
 
 ## 5. Software Stack
 
@@ -85,7 +82,7 @@ Optional modules:
 * Live telemetry monitoring
 * Flight logs analysis
 
----
+
 
 ## 6. Assembly Process
 
@@ -111,7 +108,7 @@ Optional modules:
 * Connect battery via power distribution board
 * Verify voltage levels
 
----
+
 
 ## 7. Flight Controller Configuration
 
@@ -128,7 +125,7 @@ Optional modules:
 * ESC calibration
 * Compass calibration (if GPS used)
 
----
+
 
 ## 8. Safety Measures
 
@@ -137,7 +134,7 @@ Optional modules:
 * Check battery voltage before flight
 * Perform pre-flight checklist
 
----
+
 
 ## 9. Testing & Flight
 
@@ -153,7 +150,6 @@ Optional modules:
 * Low-altitude maneuvering
 * Gradual stress testing
 
----
 
 ## 10. Applications
 
@@ -162,7 +158,7 @@ Optional modules:
 * Research and experimentation
 * Autonomous navigation (future scope)
 
----
+
 
 ## 11. Future Enhancements
 
@@ -171,7 +167,7 @@ Optional modules:
 * Autonomous waypoint navigation
 * Swarm drone support
 
----
+
 
 ## 12. Troubleshooting
 
@@ -181,7 +177,7 @@ Optional modules:
 | No arming              | Failsafe active       | Check receiver connection |
 | Vibrations             | Loose frame/motors    | Tighten all mounts        |
 
----
+
 
 ## 13. Conclusion
 
